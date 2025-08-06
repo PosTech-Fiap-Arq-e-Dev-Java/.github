@@ -2,7 +2,7 @@
 ## Tech Challenge FIAP - Pós-graduação em Arquitetura e Desenvolvimento Java
 
 📄 **Documentação Oficial do Desafio**  
-Repositórios desenvolvidos para o Tech Challenge da FIAP, com foco em arquitetura moderna utilizando microsserviços, Clean Architecture e abordagem API First.
+[Repositórios desenvolvidos para o Tech Challenge da FIAP, com foco em arquitetura moderna utilizando microsserviços, Clean Architecture e abordagem API First.](https://docs.google.com/document/d/e/2PACX-1vSw_auwVeiZGyAN7WkUH30ksHZ-HE-bz1kVepJj2s0bZP-Z4Ff69cy3S0-nEj-yYYv37Y9cB4-EIR2l/pub)
 
 🎥 **Vídeo de Apresentação**  
 _[Link da apresentação em vídeo (a ser adicionado)](https://youtu.be/dtWbzXhYaAU)_
