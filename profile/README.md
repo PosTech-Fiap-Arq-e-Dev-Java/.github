@@ -5,7 +5,7 @@
 Repositórios desenvolvidos para o Tech Challenge da FIAP, com foco em arquitetura moderna utilizando microsserviços, Clean Architecture e abordagem API First.
 
 🎥 **Vídeo de Apresentação**  
-_Link da apresentação em vídeo (a ser adicionado)_
+_[Link da apresentação em vídeo (a ser adicionado)](https://youtu.be/dtWbzXhYaAU)_
 
 ---
 
